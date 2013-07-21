@@ -1,0 +1,14 @@
+{
+    "a_string": "Some string",
+    "a_longer_string": "Lorem ipsum dolor sit amet etc etc",
+    "a_single": 3.14,
+    "an_int": 42,
+    "an_object": {
+        "my_name_is": "Buck",
+        "and_Im_here_to": "Pluck"
+    },
+    "a_list":[
+        {"item": 1, "I_am": "First"},
+        {"item": 2, "I_am": "Second"}
+    ]
+}
